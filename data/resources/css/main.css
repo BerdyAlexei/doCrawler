@@ -1,0 +1,72 @@
+QMainWindow{
+    background-color: rgb(223, 223, 223);
+}
+
+QProgressBar {
+    text-align: center;
+}
+
+QLineEdit {
+    padding: 6px;
+    border: 1px solid gray;
+    border-radius: 4%;
+}
+
+QLineEdit:focus {
+    padding: 6px;
+    border: 1px solid #2196F3;
+    border-radius: 4%;
+}
+
+
+QPushButton{
+    border-radius: 4%;
+    background-color: #1C7EE6;
+    color: white;
+}
+QPushButton:hover{
+    background-color: #2196F3;
+    color: white;
+}
+
+QPushButton:disabled{
+    background-color: #114985;
+    color: rgba(245, 245, 245, 0.8);
+}
+
+QProgressBar {
+    border: 1px solid grey;
+    border-radius: 4%;
+    background-color: #f0f0f0;
+    height: 10px;
+}
+
+QProgressBar::chunk {
+    background-color: #06B025;
+    width: 20px;
+}
+
+
+QScrollArea {
+    border: 1px solid gray;
+}
+
+QScrollBar {
+    background-color: #F0F0F0;
+}
+
+QScrollBar::handle {
+    background-color: #C0C0C0;
+}
+
+QScrollBar::handle:hover {
+    background-color: #A0A0A0;
+}
+
+QScrollBar::sub-page {
+    background-color: #E0E0E0;
+}
+
+QScrollBar::add-page {
+    background-color: #E0E0E0;
+}

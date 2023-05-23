@@ -1,0 +1,14 @@
+{
+    "":"en-us",
+    "selectFolder":"Select a folder",
+    "selectedFolder":"Folder where to search",
+    "textToSearch":"Text to search",
+    "searchTextToSearch":"Search",
+    "clearTextToSearch":"Clear",
+    "readingConsole":"Reading {}",
+    "readingStop":"Stop",
+    "readingStopProcess":"Stopping...",
+    "filesFound":"Matches found: {}",
+    "filesNotFound":"No matches found",
+    "page":"Page"
+}

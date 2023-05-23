@@ -1,0 +1,14 @@
+{
+    "":"es-es",
+    "selectFolder":"Selecciona una carpeta",
+    "selectedFolder":"Carpeta donde buscar",
+    "textToSearch":"Texto a buscar",
+    "searchTextToSearch":"Buscar",
+    "clearTextToSearch":"Limpiar",
+    "readingConsole":"Leyendo {}",
+    "readingStop":"Detener",
+    "readingStopProcess":"Deteniendo...",
+    "filesFound":"Coincidencias encontradas: {}",
+    "filesNotFound":"No se encontraron coincidencias",
+    "page":"Pagina"
+}
